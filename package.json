@@ -1,5 +1,10 @@
 {
   "devDependencies": {
-    "cypress": "^14.5.3"
+    "cypress": "^14.5.3",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "eslint": "^9.32.0",
+    "prettier": "^3.6.2"
   }
 }
