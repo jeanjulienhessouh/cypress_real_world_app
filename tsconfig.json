@@ -1,5 +1,5 @@
 {
-  //"include": ["**/*.ts", "env.d.ts", "**/*.tsx", "src/**/*", "support/**/*"],
+  "include": ["**/*.ts", "env.d.ts", "**/*.tsx", "src/**/*", "support/**/*"],
   "compilerOptions": {
     "baseUrl": ".", // Base directory for resolving paths
     "target": "es5",
